@@ -20,7 +20,13 @@
 <h1 align="center">hey there 👋</h1>
 
 
-https://github.com/user-attachments/assets/c7b497bc-2c9d-412c-b140-1bebdf7c3ff8
+<div 
+
+https://github.com/user-attachments/assets/18673c31-c3b0-4c27-89b1-3380ce7c2057
+
+align="center">
+  
+</div>
 
 
 ###

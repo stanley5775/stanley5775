@@ -19,6 +19,10 @@
 
 <h1 align="center">hey there 👋</h1>
 
+
+https://github.com/user-attachments/assets/c7b497bc-2c9d-412c-b140-1bebdf7c3ff8
+
+
 ###
 
 <div align="center">

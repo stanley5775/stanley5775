@@ -1,7 +1,10 @@
 ## Hey there 👋
 🛠 Currently Working On: Building interactive web apps with React + Tailwind
+
 🌱 Learning: AI integration in front-end projects
+
 🎯 Goal: To become a full-stack developer and contribute to open-source projects
+
 ⚡ Fun Fact: I debug faster with good music 🎧
 <!--
 **stanley5775/stanley5775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

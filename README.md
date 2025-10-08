@@ -20,12 +20,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-
-<div align="center">
-  <img height="100" src="https://github.com/rudrabarad/Gifs"  />
-</div>
-
-
 ###
 
 <div align="center">

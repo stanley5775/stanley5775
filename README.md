@@ -13,7 +13,10 @@
 ###
 
 <div align="center">
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views?page_id=maurodesouza.maurodesouza&"  />
+</div>
 </div
 
 ###

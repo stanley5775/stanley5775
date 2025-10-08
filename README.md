@@ -21,6 +21,8 @@
 
 <h1 align="center">hey there 👋</h1>
 
+###
+
 <div align="center">
 🛠 Currently Working On: Building interactive web apps with React + Tailwind
 
@@ -31,6 +33,7 @@
 ⚡ Fun Fact: I debug faster with good music 🎧
 </div>
 
+###
 
 <h3 align="center">Tools And Technologies</h3>
 <br>

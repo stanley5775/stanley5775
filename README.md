@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/fd991012-8214-4bf5-9abd-f9deda50a11a"  />
+  <img height="150" src="https://www.pinterest.com/ideas/coding-gifs-aesthetic/896913177658/"  />
 </div>
 
 

@@ -17,15 +17,12 @@
 
 ###
 
+
 <h1 align="center">hey there 👋</h1>
 
 
-<div 
-
-https://github.com/user-attachments/assets/18673c31-c3b0-4c27-89b1-3380ce7c2057
-
-align="center">
-  
+<div align="center">
+  <img height="150" src="https://github.com/user-attachments/assets/fd991012-8214-4bf5-9abd-f9deda50a11a"  />
 </div>
 
 

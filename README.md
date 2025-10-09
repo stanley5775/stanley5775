@@ -34,10 +34,8 @@
 
 ###
 
-<h3 align="center">Tools And Technologies</h3>
+<h3 align="center">🧰 Tools And Technologies</h3>
 <br>
-
-### 🧰 Tools And Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
